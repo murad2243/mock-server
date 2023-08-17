@@ -36,7 +36,7 @@
     "users":[
         {
             "username": "xyz",
-            "avatar": "https://cdn-icons-png.flaticon.com/512/147/147142.png".
+            "avatar": "https://cdn-icons-png.flaticon.com/512/147/147142.png",
             "email": "xyz@gmail.com",
             "password": "123456"
             
